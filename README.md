@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Khoa (you can call me Thiên also)
 - 👀 I’m interested in programming languages and cool projects.
 - 🌱 I’m currently learning software engineeing.
-- 💞️ I’m looking to collaborate on cool projects. If you're looking for someone to code with you in C++ or Java. Then don't be shy, contact me.
+- 💞️ I’m looking to collaborate on cool projects. If you're looking for someone to code with you in C++ || Java || TS. Then don't be shy, contact me.
 - 📫 How to reach me @trankhoa758@gmail.com. This is my gmail, you can send me a letter.
 
 <!---
